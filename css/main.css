@@ -1,0 +1,25 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}   
+.section1{
+    background:url(../img/maxresdefault.jpg);
+    width:100%;
+    height:100%;
+    text-align: center;
+}
+.judul{
+    font-family: inherit;
+    font-size: 70px;
+    color: #B4CE3D;
+     border: ;
+}
+.subjudul{
+    font-family: Solid Italic;
+    font-size: 50px;
+    color: #8BE6B2;
+}
+.section2{
+    background: #FF8B8D;
+    padding: 100px 0px
+}
